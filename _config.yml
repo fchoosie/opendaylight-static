@@ -1,0 +1,52 @@
+baseurl: '/'
+permalink: pretty
+title: 'OpenDaylight'
+
+google_analytics_id: ""
+
+homepage:
+  show_call_box: true
+
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "36px"
+
+footer:
+  copyright_text: '© 2022 OpenDaylight Project © 2022 The Linux Foundation®. All rights reserved.'
+
+seo:
+  meta_og_title: "OpenDaylight Project"
+  meta_og_type: "website"
+  meta_og_url: "https://jekyll-serif.netlify.app"
+  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_description: "OpenDaylight (ODL) is a modular open platform for customizing and automating networks of any size and scale."
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@opendaylightsdn"
+  meta_twitter_creator: "@linuxfoundation"
+
+collections:
+  services:
+    output: true
+  team:
+    output: true
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md

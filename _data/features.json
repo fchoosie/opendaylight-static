@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Developer",
+    "description": "Are you a developer, planning to start with or contribute to OpenDaylight? Start your OpenDaylight journey.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "User",
+    "description": "Are you a (future) user, looking to get started with OpenDaylight? Learn about usage, examples and trainings.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Documentation",
+    "description": "The OpenDaylight documentation site acts as a central clearinghouse for project and release documentation.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]

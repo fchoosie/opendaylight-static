@@ -1,0 +1,21 @@
+main:
+  - name: "About"
+    url: "/about/"
+    weight: 2
+  - name: "Governance"
+    url: "/governance/"
+    weight: 3
+  - name: "Use Cases"
+    url: "/use-cases/"
+    weight: 4
+  - name: "Getting Started"
+    url: "/getting-started/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "About"
+    url: "/about/"
+    weight: 2
