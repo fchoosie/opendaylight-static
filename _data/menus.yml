@@ -5,12 +5,15 @@ main:
   - name: "Governance"
     url: "/governance/"
     weight: 3
+  - name: "Platform Overview"
+    url: "/platform-overview/"
+    weight: 4
   - name: "Use Cases"
     url: "/use-cases/"
-    weight: 4
+    weight: 5
   - name: "Getting Started"
     url: "/getting-started/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"

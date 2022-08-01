@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Use cases that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+OpenDaylight was designed to be a broad, general-purpose platform to support a wide range of use cases – including ones, that haven’t been invented yet. ODL delivers the benefits of SDN and NFV to carriers, enterprises, research institutions, and other organizations, such as cities and metropolitan areas. Some of the most common applications of OpenDaylight technology are described below. 

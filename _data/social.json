@@ -8,5 +8,10 @@
     "name": "Twitter",
     "link": "https://twitter.com/opendaylightsdn",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/lfnetworking/",
+    "image": "images/social/linkedin.svg"
   }
 ]
