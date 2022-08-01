@@ -1,9 +1,6 @@
 # OpenDaylight Website | Static Proposal
 
-This repository includes the original content from the OpenDaylight website, reconstructed in Jekyll. [The Jekyll Serif Theme was used as a template.](https://github.com/zerostaticthemes/jekyll-serif-theme), created by [Robert Austin](https://github.com/JugglerX).
-
-[Live Demo](https://jekyll-serif.netlify.app/) | 
-[Zerostatic Themes](https://www.zerostatic.io)
+This repository includes the original content from the OpenDaylight website, reconstructed in Jekyll. [The Jekyll Serif Theme was used to create this website.](https://github.com/zerostaticthemes/jekyll-serif-theme) Jekyll Serif was created by [Robert Austin](https://github.com/JugglerX).
 
 ## Installation & Testing
 
@@ -43,4 +40,4 @@ bundle exec jekyll build
 
 ### License
 
-The original theme is open source under the MIT license.
+The original theme is open-source, under the MIT license.
